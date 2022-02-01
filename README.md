@@ -1,6 +1,8 @@
 # Coditor
 
-A Terminal based Text Editor written in C language with syntax highlighting for programming languages.
+### This project is a part of Data Structures and Algorithms course
+
+A Terminal based Editor written in C language with syntax highlighting for programming languages.
 
 To run the editor
 ```
