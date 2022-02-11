@@ -9,4 +9,6 @@ To run the editor
 $ make all
 $ ./editorl
 ```
+The `sample.*` files are sample files for testing purpose.
+
 <a href="https://viewsourcecode.org/snaptoken/kilo/">Reference</a>
